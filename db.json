@@ -1,0 +1,147 @@
+{
+  "movies":[
+  {
+    "id": 1,
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "year": 2010,
+    "rating": 8.8,
+    "duration": "2h 28m",
+    "language": "English",
+    "image": "./images/Inception_(2010)_theatrical_poster.jpg",
+    "watchLink": "https://www.netflix.com",
+    "synopsis": "A thief enters people's dreams to steal secrets and is offered a chance at redemption."
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "genre": "Sci-Fi",
+    "year": 2014,
+    "rating": 8.7,
+    "duration": "2h 49m",
+    "language": "English",
+    "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "watchLink": "https://www.primevideo.com",
+    "synopsis": "A team travels through a wormhole in search of a new home for humanity."
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "year": 2008,
+    "rating": 9.0,
+    "duration": "2h 32m",
+    "language": "English",
+    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "watchLink": "https://www.netflix.com",
+    "synopsis": "Batman battles the Joker, who threatens Gotham City with chaos."
+  },
+  {
+    "id": 4,
+    "title": "Baahubali: The Beginning",
+    "genre": "Action",
+    "year": 2015,
+    "rating": 8.0,
+    "duration": "2h 39m",
+    "language": "Telugu",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Baahubali_The_Beginning_poster.jpg",
+    "watchLink": "https://www.hotstar.com/in/movies/baahubali-the-beginning/1000074338?search_query=bahubali",
+    "synopsis": "A young man discovers his royal heritage and destiny in the kingdom of Mahishmati."
+  },
+  {
+    "id": 5,
+    "title": "Baahubali 2: The Conclusion",
+    "genre": "Action",
+    "year": 2017,
+    "rating": 8.2,
+    "duration": "2h 47m",
+    "language": "Telugu",
+    "image": "./images/Baahubali_2_The_Conclusion_poster.jpg",
+    "watchLink": "https://www.hotstar.com/in/movies/baahubali-2-the-conclusion/1770016137?search_query=bahubali",
+    "synopsis": "The mystery behind Amarendra Baahubali's death is finally revealed."
+  },
+  {
+    "id": 6,
+    "title": "KGF Chapter 1",
+    "genre": "Action",
+    "year": 2018,
+    "rating": 8.2,
+    "duration": "2h 36m",
+    "language": "Kannada",
+    "image": "./images/K.G.F_Chapter_1_poster.jpg",
+    "watchLink": "https://www.primevideo.com",
+    "synopsis": "Rocky rises from poverty to become the most feared man in the Kolar Gold Fields."
+  },
+  {
+    "id": 7,
+    "title": "KGF Chapter 2",
+    "genre": "Action",
+    "year": 2022,
+    "rating": 8.3,
+    "duration": "2h 48m",
+    "language": "Kannada",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg",
+    "watchLink": "https://www.primevideo.com",
+    "synopsis": "Rocky faces powerful enemies while expanding his empire."
+  },
+  {
+    "id": 8,
+    "title": "Salaar",
+    "genre": "Action",
+    "year": 2023,
+    "rating": 7.0,
+    "duration": "2h 55m",
+    "language": "Telugu",
+    "image": "./images/Salaar_Part_1_–_Ceasefire.jpg",
+    "watchLink": "https://www.netflix.com",
+    "synopsis": "Two childhood friends become powerful rivals in a kingdom ruled by violence."
+  },
+  {
+    "id": 9,
+    "title": "Kalki 2898 AD",
+    "genre": "Sci-Fi",
+    "year": 2024,
+    "rating": 8.1,
+    "duration": "3h 1m",
+    "language": "Telugu",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/Kalki_2898_AD.jpg",
+    "watchLink": "https://www.primevideo.com",
+    "synopsis": "A futuristic epic inspired by Indian mythology set in a dystopian future."
+  },
+  {
+    "id": 10,
+    "title": "RRR",
+    "genre": "Action",
+    "year": 2022,
+    "rating": 7.8,
+    "duration": "3h 2m",
+    "language": "Telugu",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg",
+    "watchLink": "https://www.netflix.com",
+    "synopsis": "Two revolutionaries fight against British rule while forging an extraordinary friendship."
+  },
+  {
+    "id": 11,
+    "title": "Pushpa: The Rise",
+    "genre": "Action",
+    "year": 2021,
+    "rating": 7.6,
+    "duration": "2h 59m",
+    "language": "Telugu",
+    "image": "./images/Pushpa_-_The_Rise_(2021_film).jpg",
+    "watchLink": "https://www.primevideo.com",
+    "synopsis": "A laborer rises through the ranks of a red sandalwood smuggling syndicate."
+  },
+  {
+    "id": 12,
+    "title": "Avengers: Endgame",
+    "genre": "Superhero",
+    "year": 2019,
+    "rating": 8.4,
+    "duration": "3h 1m",
+    "language": "English",
+    "image": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "watchLink": "https://www.disneyplus.com",
+    "synopsis": "The Avengers reunite for one final battle against Thanos."
+  }
+]}
